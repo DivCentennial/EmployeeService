@@ -1,0 +1,465 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Test\\Test.csproj": {}
+  },
+  "projects": {
+    "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\ApiService\\ApiService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\ApiService\\ApiService.csproj",
+        "projectName": "MariApps.MS.Common.MSA.Employee.ApiService",
+        "projectPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\ApiService\\ApiService.csproj",
+        "packagesPath": "C:\\Users\\divyanshoo.sinha\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\ApiService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\divyanshoo.sinha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Business\\Business.csproj": {
+                "projectPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Business\\Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MariApps.Framework.ApiService.Core": {
+              "target": "Package",
+              "version": "[10.0.52.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Business\\Business.csproj",
+        "projectName": "MariApps.MS.Common.MSA.Employee.Business",
+        "projectPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\divyanshoo.sinha\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\divyanshoo.sinha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\DataCarrier\\DataCarrier.csproj": {
+                "projectPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\DataCarrier\\DataCarrier.csproj"
+              },
+              "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MariApps.Framework.Business.Core": {
+              "target": "Package",
+              "version": "[10.0.24.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\DataCarrier\\DataCarrier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\DataCarrier\\DataCarrier.csproj",
+        "projectName": "MariApps.MS.Common.MSA.Employee.DataCarrier",
+        "projectPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\DataCarrier\\DataCarrier.csproj",
+        "packagesPath": "C:\\Users\\divyanshoo.sinha\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\DataCarrier\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\divyanshoo.sinha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\DataModel\\DataModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\DataModel\\DataModel.csproj",
+        "projectName": "MariApps.MS.Common.MSA.Employee.DataModel",
+        "projectPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\DataModel\\DataModel.csproj",
+        "packagesPath": "C:\\Users\\divyanshoo.sinha\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\DataModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\divyanshoo.sinha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MariApps.PAL.Framework.DataAccess": {
+              "target": "Package",
+              "version": "[10.0.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Repository.Contracts\\Repository.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Repository.Contracts\\Repository.Contracts.csproj",
+        "projectName": "MariApps.MS.Common.MSA.Employee.Repository.Contracts",
+        "projectPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Repository.Contracts\\Repository.Contracts.csproj",
+        "packagesPath": "C:\\Users\\divyanshoo.sinha\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Repository.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\divyanshoo.sinha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\DataModel\\DataModel.csproj": {
+                "projectPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\DataModel\\DataModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Repository\\Repository.csproj",
+        "projectName": "MariApps.MS.Common.MSA.Employee.Repository",
+        "projectPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\divyanshoo.sinha\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\divyanshoo.sinha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Repository.Contracts\\Repository.Contracts.csproj": {
+                "projectPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Repository.Contracts\\Repository.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Test\\Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Test\\Test.csproj",
+        "projectName": "MariApps.MS.Common.MSA.Employee.Test",
+        "projectPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Test\\Test.csproj",
+        "packagesPath": "C:\\Users\\divyanshoo.sinha\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\divyanshoo.sinha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\ApiService\\ApiService.csproj": {
+                "projectPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\ApiService\\ApiService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

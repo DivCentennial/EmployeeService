@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MariApps.MS.Common.MSA.Employee.DataCarrier/1.0.0": {
+        "runtime": {
+          "MariApps.MS.Common.MSA.Employee.DataCarrier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MariApps.MS.Common.MSA.Employee.DataCarrier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

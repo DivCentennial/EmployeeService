@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "88Bt8rSd+ZQybR2OOlheHXVLBEci1g6qElzSfmdtjdtc2yv2fWYAnBanFrf7jbUNnHfe7tLXNW2mNnbbHUzhxQ==",
+  "success": false,
+  "projectFilePath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Business\\Business.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package MariApps.Framework.Business.Core. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": "MariApps.Framework.Business.Core",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package MariApps.PAL.Framework.DataAccess. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": "MariApps.PAL.Framework.DataAccess",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

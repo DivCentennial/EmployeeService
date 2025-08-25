@@ -1,0 +1,23 @@
+D:\demo\PALNG\EmployeeService\DataCarrier\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataCarrier.deps.json
+D:\demo\PALNG\EmployeeService\DataCarrier\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataCarrier.dll
+D:\demo\PALNG\EmployeeService\DataCarrier\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataCarrier.pdb
+D:\demo\PALNG\EmployeeService\DataCarrier\obj\Debug\net6.0\DataCarrier.csproj.AssemblyReference.cache
+D:\demo\PALNG\EmployeeService\DataCarrier\obj\Debug\net6.0\DataCarrier.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo\PALNG\EmployeeService\DataCarrier\obj\Debug\net6.0\DataCarrier.AssemblyInfoInputs.cache
+D:\demo\PALNG\EmployeeService\DataCarrier\obj\Debug\net6.0\DataCarrier.AssemblyInfo.cs
+D:\demo\PALNG\EmployeeService\DataCarrier\obj\Debug\net6.0\DataCarrier.csproj.CoreCompileInputs.cache
+D:\demo\PALNG\EmployeeService\DataCarrier\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataCarrier.dll
+D:\demo\PALNG\EmployeeService\DataCarrier\obj\Debug\net6.0\refint\MariApps.MS.Common.MSA.Employee.DataCarrier.dll
+D:\demo\PALNG\EmployeeService\DataCarrier\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataCarrier.pdb
+D:\demo\PALNG\EmployeeService\DataCarrier\obj\Debug\net6.0\ref\MariApps.MS.Common.MSA.Employee.DataCarrier.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataCarrier\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataCarrier.deps.json
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataCarrier\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataCarrier.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataCarrier\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataCarrier.pdb
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataCarrier\obj\Debug\net6.0\DataCarrier.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataCarrier\obj\Debug\net6.0\DataCarrier.AssemblyInfoInputs.cache
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataCarrier\obj\Debug\net6.0\DataCarrier.AssemblyInfo.cs
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataCarrier\obj\Debug\net6.0\DataCarrier.csproj.CoreCompileInputs.cache
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataCarrier\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataCarrier.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataCarrier\obj\Debug\net6.0\refint\MariApps.MS.Common.MSA.Employee.DataCarrier.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataCarrier\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataCarrier.pdb
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataCarrier\obj\Debug\net6.0\ref\MariApps.MS.Common.MSA.Employee.DataCarrier.dll

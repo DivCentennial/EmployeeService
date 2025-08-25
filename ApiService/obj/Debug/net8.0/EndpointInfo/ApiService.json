@@ -1,0 +1,300 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "MariApps.MS.Common.MSA.Employee.ApiService",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/EmployeeService/getemp": {
+      "get": {
+        "tags": [
+          "EmployeeService"
+        ],
+        "parameters": [
+          {
+            "name": "in_userid",
+            "in": "header",
+            "description": "User Id",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/EmployeeEntity"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/EmployeeEntity"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/EmployeeEntity"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/EmployeeService/getemployeeId": {
+      "get": {
+        "tags": [
+          "EmployeeService"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "in_userid",
+            "in": "header",
+            "description": "User Id",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/EmployeeEntity"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EmployeeEntity"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EmployeeEntity"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/EmployeeService/createEmployee": {
+      "post": {
+        "tags": [
+          "EmployeeService"
+        ],
+        "parameters": [
+          {
+            "name": "in_userid",
+            "in": "header",
+            "description": "User Id",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EmployeeDT"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EmployeeDT"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EmployeeDT"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/EmployeeService/deleteEmployee": {
+      "delete": {
+        "tags": [
+          "EmployeeService"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "in_userid",
+            "in": "header",
+            "description": "User Id",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/EmployeeService/updateEmployee": {
+      "put": {
+        "tags": [
+          "EmployeeService"
+        ],
+        "parameters": [
+          {
+            "name": "in_userid",
+            "in": "header",
+            "description": "User Id",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EmployeeDT"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EmployeeDT"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EmployeeDT"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/.about-me": {
+      "get": {
+        "tags": [
+          "MariApps.MS.Common.MSA.Employee.ApiService"
+        ],
+        "parameters": [
+          {
+            "name": "in_userid",
+            "in": "header",
+            "description": "User Id",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "EmployeeDT": {
+        "type": "object",
+        "properties": {
+          "empNo": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "eName": {
+            "type": "string",
+            "nullable": true
+          },
+          "salary": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "deptNo": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "jDate": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      },
+      "EmployeeEntity": {
+        "type": "object",
+        "properties": {
+          "empNo": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "eName": {
+            "type": "string",
+            "nullable": true
+          },
+          "salary": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "deptNo": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "jDate": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

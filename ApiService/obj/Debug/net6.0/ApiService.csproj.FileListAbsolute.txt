@@ -1,0 +1,244 @@
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\appsettings.Development.json
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\appsettings.json
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\appsettings.Production.json
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\_dummyUserData\User.json
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.exe
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.deps.json
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.runtimeconfig.json
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.pdb
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\HealthChecks.UI.Client.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\HealthChecks.UI.Core.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\AutoMapper.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Dapper.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Elasticsearch.Net.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.Framework.ApiService.Core.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.Framework.Authorization.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.Framework.Business.Core.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.Framework.Caching.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.Framework.ConfigurationManagement.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.Framework.DistributedTransaction.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.Framework.Notification.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.PAL.Framework.DataAccess.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.ApplicationInsights.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Polly.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Polly.Core.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Refit.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Refit.HttpClientFactory.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Refit.Newtonsoft.Json.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Formatting.Elasticsearch.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Sinks.ApplicationInsights.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Sinks.Elasticsearch.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\System.Net.Http.Json.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\System.Text.Json.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Business.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataCarrier.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.Contracts.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.dll
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Business.pdb
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataCarrier.pdb
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.pdb
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.pdb
+D:\demo\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.Contracts.pdb
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\ApiService.csproj.AssemblyReference.cache
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\ApiService.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\ApiService.AssemblyInfoInputs.cache
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\ApiService.AssemblyInfo.cs
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\ApiService.csproj.CoreCompileInputs.cache
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.MvcApplicationPartsAssemblyInfo.cs
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.MvcApplicationPartsAssemblyInfo.cache
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\staticwebassets\msbuild.MariApps.MS.Common.MSA.Employee.ApiService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\staticwebassets\msbuild.build.MariApps.MS.Common.MSA.Employee.ApiService.props
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MariApps.MS.Common.MSA.Employee.ApiService.props
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MariApps.MS.Common.MSA.Employee.ApiService.props
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\staticwebassets.pack.json
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\staticwebassets.build.json
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\staticwebassets.development.json
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\scopedcss\bundle\MariApps.MS.Common.MSA.Employee.ApiService.styles.css
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\ApiService.csproj.CopyComplete
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.dll
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\refint\MariApps.MS.Common.MSA.Employee.ApiService.dll
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.pdb
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\ApiService.genruntimeconfig.cache
+D:\demo\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\ref\MariApps.MS.Common.MSA.Employee.ApiService.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\refint\MariApps.MS.Common.MSA.Employee.ApiService.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.pdb
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\appsettings.Development.json
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\appsettings.json
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\appsettings.Production.json
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\_dummyUserData\User.json
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.staticwebassets.endpoints.json
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.exe
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.deps.json
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.runtimeconfig.json
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.pdb
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\HealthChecks.UI.Client.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\HealthChecks.UI.Core.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\AutoMapper.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Dapper.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Elasticsearch.Net.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.Framework.ApiService.Core.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.Framework.Authorization.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.Framework.Business.Core.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.Framework.Caching.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.Framework.ConfigurationManagement.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.Framework.DistributedTransaction.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.Framework.Notification.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.PAL.Framework.DataAccess.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.ApplicationInsights.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Polly.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Polly.Core.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Refit.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Refit.HttpClientFactory.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Refit.Newtonsoft.Json.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Formatting.Elasticsearch.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Sinks.ApplicationInsights.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Sinks.Elasticsearch.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\System.Net.Http.Json.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\System.Text.Json.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Business.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataCarrier.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.Contracts.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Business.pdb
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataCarrier.pdb
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.pdb
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.pdb
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.Contracts.pdb
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\ApiService.csproj.AssemblyReference.cache
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\ApiService.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\ApiService.AssemblyInfoInputs.cache
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\ApiService.AssemblyInfo.cs
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\ApiService.csproj.CoreCompileInputs.cache
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.ApiService.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\scopedcss\bundle\MariApps.MS.Common.MSA.Employee.ApiService.styles.css
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\staticwebassets.build.json
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\staticwebassets.development.json
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\staticwebassets\msbuild.MariApps.MS.Common.MSA.Employee.ApiService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\staticwebassets\msbuild.MariApps.MS.Common.MSA.Employee.ApiService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\staticwebassets\msbuild.build.MariApps.MS.Common.MSA.Employee.ApiService.props
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MariApps.MS.Common.MSA.Employee.ApiService.props
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MariApps.MS.Common.MSA.Employee.ApiService.props
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\staticwebassets.pack.json
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\ApiService.csproj.Up2Date
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\ApiService.genruntimeconfig.cache
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\ApiService\obj\Debug\net6.0\ref\MariApps.MS.Common.MSA.Employee.ApiService.dll

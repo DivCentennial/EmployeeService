@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MariApps.MS.Common.MSA.Employee.ApiService.props" />
+</Project>

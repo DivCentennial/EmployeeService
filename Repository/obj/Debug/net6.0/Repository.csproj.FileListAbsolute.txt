@@ -1,0 +1,34 @@
+D:\demo\PALNG\EmployeeService\Repository\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.deps.json
+D:\demo\PALNG\EmployeeService\Repository\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.dll
+D:\demo\PALNG\EmployeeService\Repository\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.pdb
+D:\demo\PALNG\EmployeeService\Repository\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.dll
+D:\demo\PALNG\EmployeeService\Repository\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.Contracts.dll
+D:\demo\PALNG\EmployeeService\Repository\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.Contracts.pdb
+D:\demo\PALNG\EmployeeService\Repository\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.pdb
+D:\demo\PALNG\EmployeeService\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\demo\PALNG\EmployeeService\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo\PALNG\EmployeeService\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\demo\PALNG\EmployeeService\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\demo\PALNG\EmployeeService\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\demo\PALNG\EmployeeService\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\demo\PALNG\EmployeeService\Repository\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.dll
+D:\demo\PALNG\EmployeeService\Repository\obj\Debug\net6.0\refint\MariApps.MS.Common.MSA.Employee.Repository.dll
+D:\demo\PALNG\EmployeeService\Repository\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.pdb
+D:\demo\PALNG\EmployeeService\Repository\obj\Debug\net6.0\ref\MariApps.MS.Common.MSA.Employee.Repository.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Repository\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Repository\obj\Debug\net6.0\refint\MariApps.MS.Common.MSA.Employee.Repository.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Repository\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.pdb
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Repository\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.deps.json
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Repository\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Repository\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.pdb
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Repository\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Repository\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.Contracts.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Repository\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.Repository.Contracts.pdb
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Repository\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.pdb
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Repository\obj\Debug\net6.0\Repository.csproj.Up2Date
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Repository\obj\Debug\net6.0\ref\MariApps.MS.Common.MSA.Employee.Repository.dll

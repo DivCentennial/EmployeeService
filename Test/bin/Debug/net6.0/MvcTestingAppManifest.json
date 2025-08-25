@@ -1,0 +1,8 @@
+{
+  "MariApps.MS.Common.MSA.Employee.ApiService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\ApiService",
+  "MariApps.MS.Common.MSA.Employee.Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Business",
+  "MariApps.MS.Common.MSA.Employee.DataCarrier, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\DataCarrier",
+  "MariApps.MS.Common.MSA.Employee.DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\DataModel",
+  "MariApps.MS.Common.MSA.Employee.Repository.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Repository.Contracts",
+  "MariApps.MS.Common.MSA.Employee.Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Repository"
+}

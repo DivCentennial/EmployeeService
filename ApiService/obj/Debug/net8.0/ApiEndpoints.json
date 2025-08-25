@@ -1,0 +1,130 @@
+[
+  {
+    "ContainingType": "MariApps.Framework.ApiService.Core.Middlewares.PalNgPilelineExtensions\u002B\u003C\u003Ec",
+    "Method": "\u003CMapPalCoreEndpoints\u003Eb__0_0",
+    "RelativePath": ".about-me",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MariApps.MS.Common.MSA.Employee.ApiService.Controllers.EmployeeServiceController",
+    "Method": "createEmployee",
+    "RelativePath": "api/EmployeeService/createEmployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "MariApps.MS.Common.MSA.Employee.DataModel.EmployeeDT",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MariApps.MS.Common.MSA.Employee.ApiService.Controllers.EmployeeServiceController",
+    "Method": "deleteEmployee",
+    "RelativePath": "api/EmployeeService/deleteEmployee",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MariApps.MS.Common.MSA.Employee.ApiService.Controllers.EmployeeServiceController",
+    "Method": "getEmployee",
+    "RelativePath": "api/EmployeeService/getemp",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "MariApps.MS.Common.MSA.Employee.DataCarrier.EmployeeEntity[]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MariApps.MS.Common.MSA.Employee.ApiService.Controllers.EmployeeServiceController",
+    "Method": "getEmployeeID",
+    "RelativePath": "api/EmployeeService/getemployeeId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MariApps.MS.Common.MSA.Employee.DataCarrier.EmployeeEntity",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MariApps.MS.Common.MSA.Employee.ApiService.Controllers.EmployeeServiceController",
+    "Method": "updateEmployee",
+    "RelativePath": "api/EmployeeService/updateEmployee",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emp",
+        "Type": "MariApps.MS.Common.MSA.Employee.DataModel.EmployeeDT",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

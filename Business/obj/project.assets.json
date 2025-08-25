@@ -1,0 +1,176 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "MariApps.MS.Common.MSA.Employee.DataCarrier/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MariApps.MS.Common.MSA.Employee.DataCarrier.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MariApps.MS.Common.MSA.Employee.DataCarrier.dll": {}
+        }
+      },
+      "MariApps.MS.Common.MSA.Employee.DataModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MariApps.PAL.Framework.DataAccess": "10.0.2.1"
+        },
+        "compile": {
+          "bin/placeholder/MariApps.MS.Common.MSA.Employee.DataModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MariApps.MS.Common.MSA.Employee.DataModel.dll": {}
+        }
+      },
+      "MariApps.MS.Common.MSA.Employee.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MariApps.MS.Common.MSA.Employee.Repository.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MariApps.MS.Common.MSA.Employee.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MariApps.MS.Common.MSA.Employee.Repository.dll": {}
+        }
+      },
+      "MariApps.MS.Common.MSA.Employee.Repository.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MariApps.MS.Common.MSA.Employee.DataModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MariApps.MS.Common.MSA.Employee.Repository.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MariApps.MS.Common.MSA.Employee.Repository.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MariApps.MS.Common.MSA.Employee.DataCarrier/1.0.0": {
+      "type": "project",
+      "path": "../DataCarrier/DataCarrier.csproj",
+      "msbuildProject": "../DataCarrier/DataCarrier.csproj"
+    },
+    "MariApps.MS.Common.MSA.Employee.DataModel/1.0.0": {
+      "type": "project",
+      "path": "../DataModel/DataModel.csproj",
+      "msbuildProject": "../DataModel/DataModel.csproj"
+    },
+    "MariApps.MS.Common.MSA.Employee.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Repository/Repository.csproj",
+      "msbuildProject": "../Repository/Repository.csproj"
+    },
+    "MariApps.MS.Common.MSA.Employee.Repository.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Repository.Contracts/Repository.Contracts.csproj",
+      "msbuildProject": "../Repository.Contracts/Repository.Contracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "MariApps.Framework.Business.Core >= 10.0.24.1",
+      "MariApps.MS.Common.MSA.Employee.DataCarrier >= 1.0.0",
+      "MariApps.MS.Common.MSA.Employee.Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\divyanshoo.sinha\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Business\\Business.csproj",
+      "projectName": "MariApps.MS.Common.MSA.Employee.Business",
+      "projectPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Business\\Business.csproj",
+      "packagesPath": "C:\\Users\\divyanshoo.sinha\\.nuget\\packages\\",
+      "outputPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\divyanshoo.sinha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\DataCarrier\\DataCarrier.csproj": {
+              "projectPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\DataCarrier\\DataCarrier.csproj"
+            },
+            "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Repository\\Repository.csproj": {
+              "projectPath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Repository\\Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "MariApps.Framework.Business.Core": {
+            "target": "Package",
+            "version": "[10.0.24.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package MariApps.Framework.Business.Core. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": "MariApps.Framework.Business.Core",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package MariApps.PAL.Framework.DataAccess. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": "MariApps.PAL.Framework.DataAccess",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZzNFLjysrEItCklkUVYpmG5IkelIL5KM/bGXKurBVos=",
+  "Source": "MariApps.MS.Common.MSA.Employee.ApiService",
+  "BasePath": "_content/MariApps.MS.Common.MSA.Employee.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

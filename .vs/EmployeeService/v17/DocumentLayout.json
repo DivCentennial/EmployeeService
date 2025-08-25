@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5191DE0F-BDFA-443A-8B35-712B93C8057E}|ApiService\\ApiService.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\apiservice\\controllers\\employeeservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5191DE0F-BDFA-443A-8B35-712B93C8057E}|ApiService\\ApiService.csproj|solutionrelative:apiservice\\controllers\\employeeservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191DE0F-BDFA-443A-8B35-712B93C8057E}|ApiService\\ApiService.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5191DE0F-BDFA-443A-8B35-712B93C8057E}|ApiService\\ApiService.csproj|solutionrelative:apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191DE0F-BDFA-443A-8B35-712B93C8057E}|ApiService\\ApiService.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\apiservice\\_dummyuserdata\\user.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5191DE0F-BDFA-443A-8B35-712B93C8057E}|ApiService\\ApiService.csproj|solutionrelative:apiservice\\_dummyuserdata\\user.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191DE0F-BDFA-443A-8B35-712B93C8057E}|ApiService\\ApiService.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\apiservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5191DE0F-BDFA-443A-8B35-712B93C8057E}|ApiService\\ApiService.csproj|solutionrelative:apiservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191DE0F-BDFA-443A-8B35-712B93C8057E}|ApiService\\ApiService.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5191DE0F-BDFA-443A-8B35-712B93C8057E}|ApiService\\ApiService.csproj|solutionrelative:apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F003995-4C8F-42F8-999D-A9723626455E}|Business\\Business.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\business\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F003995-4C8F-42F8-999D-A9723626455E}|Business\\Business.csproj|solutionrelative:business\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F003995-4C8F-42F8-999D-A9723626455E}|Business\\Business.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\business\\contracts\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F003995-4C8F-42F8-999D-A9723626455E}|Business\\Business.csproj|solutionrelative:business\\contracts\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1B360D-8CB6-4C36-9653-25B81669B298}|Repository\\Repository.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\repository\\dbcontext\\adodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1B360D-8CB6-4C36-9653-25B81669B298}|Repository\\Repository.csproj|solutionrelative:repository\\dbcontext\\adodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1B360D-8CB6-4C36-9653-25B81669B298}|Repository\\Repository.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\repository\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1B360D-8CB6-4C36-9653-25B81669B298}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1B360D-8CB6-4C36-9653-25B81669B298}|Repository\\Repository.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\repository\\sqlnamedqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1B360D-8CB6-4C36-9653-25B81669B298}|Repository\\Repository.csproj|solutionrelative:repository\\sqlnamedqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629527A4-D9D6-4741-9DA9-E0E1CEB2BF9A}|Repository.Contracts\\Repository.Contracts.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\repository.contracts\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629527A4-D9D6-4741-9DA9-E0E1CEB2BF9A}|Repository.Contracts\\Repository.Contracts.csproj|solutionrelative:repository.contracts\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EA4519-30DD-417B-AF28-F8CB2C094F5A}|DataModel\\DataModel.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\datamodel\\employeedt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EA4519-30DD-417B-AF28-F8CB2C094F5A}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\employeedt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81F4F0-4A28-488F-95ED-FA05CA38E8E4}|DataCarrier\\DataCarrier.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\datacarrier\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81F4F0-4A28-488F-95ED-FA05CA38E8E4}|DataCarrier\\DataCarrier.csproj|solutionrelative:datacarrier\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1B360D-8CB6-4C36-9653-25B81669B298}|Repository\\Repository.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D1B360D-8CB6-4C36-9653-25B81669B298}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01DA48F-9ACB-4D0A-9D11-5FF8471E5F69}|Test\\Test.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D01DA48F-9ACB-4D0A-9D11-5FF8471E5F69}|Test\\Test.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5191DE0F-BDFA-443A-8B35-712B93C8057E}|ApiService\\ApiService.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\apiservice\\apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5191DE0F-BDFA-443A-8B35-712B93C8057E}|ApiService\\ApiService.csproj|solutionrelative:apiservice\\apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629527A4-D9D6-4741-9DA9-E0E1CEB2BF9A}|Repository.Contracts\\Repository.Contracts.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\repository.contracts\\repository.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{629527A4-D9D6-4741-9DA9-E0E1CEB2BF9A}|Repository.Contracts\\Repository.Contracts.csproj|solutionrelative:repository.contracts\\repository.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EA4519-30DD-417B-AF28-F8CB2C094F5A}|DataModel\\DataModel.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\datamodel\\datamodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7EA4519-30DD-417B-AF28-F8CB2C094F5A}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\datamodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81F4F0-4A28-488F-95ED-FA05CA38E8E4}|DataCarrier\\DataCarrier.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\datacarrier\\datacarrier.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E81F4F0-4A28-488F-95ED-FA05CA38E8E4}|DataCarrier\\DataCarrier.csproj|solutionrelative:datacarrier\\datacarrier.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F003995-4C8F-42F8-999D-A9723626455E}|Business\\Business.csproj|d:\\onedrive - mariapps marine solutions pte.ltd\\palng\\employeeservice\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F003995-4C8F-42F8-999D-A9723626455E}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.json",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\ApiService\\_dummyUserData\\User.json",
+              "RelativeDocumentMoniker": "ApiService\\_dummyUserData\\User.json",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\ApiService\\_dummyUserData\\User.json",
+              "RelativeToolTip": "ApiService\\_dummyUserData\\User.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T06:01:55.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\ApiService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ApiService\\appsettings.Development.json",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\ApiService\\appsettings.Development.json",
+              "RelativeToolTip": "ApiService\\appsettings.Development.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T06:00:33.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\ApiService\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiService\\appsettings.json",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\ApiService\\appsettings.json",
+              "RelativeToolTip": "ApiService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T06:00:10.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "ApiService\\Program.cs",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\ApiService\\Program.cs",
+              "RelativeToolTip": "ApiService\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:59:35.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeServiceController.cs",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\ApiService\\Controllers\\EmployeeServiceController.cs",
+              "RelativeDocumentMoniker": "ApiService\\Controllers\\EmployeeServiceController.cs",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\ApiService\\Controllers\\EmployeeServiceController.cs",
+              "RelativeToolTip": "ApiService\\Controllers\\EmployeeServiceController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:58:44.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Business\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Business\\EmployeeService.cs",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Business\\EmployeeService.cs",
+              "RelativeToolTip": "Business\\EmployeeService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:56:06.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Business\\Contracts\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Business\\Contracts\\IEmployeeService.cs",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Business\\Contracts\\IEmployeeService.cs",
+              "RelativeToolTip": "Business\\Contracts\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:55:56.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdoDbContext.cs",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Repository\\DbContext\\AdoDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\DbContext\\AdoDbContext.cs",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Repository\\DbContext\\AdoDbContext.cs",
+              "RelativeToolTip": "Repository\\DbContext\\AdoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:55:24.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLNamedQueries.cs",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Repository\\SQLNamedQueries.cs",
+              "RelativeDocumentMoniker": "Repository\\SQLNamedQueries.cs",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Repository\\SQLNamedQueries.cs",
+              "RelativeToolTip": "Repository\\SQLNamedQueries.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:47:59.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Repository\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Repository\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:45:57.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Repository.Contracts\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository.Contracts\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Repository.Contracts\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repository.Contracts\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:45:43.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeDT.cs",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\DataModel\\EmployeeDT.cs",
+              "RelativeDocumentMoniker": "DataModel\\EmployeeDT.cs",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\DataModel\\EmployeeDT.cs",
+              "RelativeToolTip": "DataModel\\EmployeeDT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:43:02.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeEntity.cs",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\DataCarrier\\EmployeeEntity.cs",
+              "RelativeDocumentMoniker": "DataCarrier\\EmployeeEntity.cs",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\DataCarrier\\EmployeeEntity.cs",
+              "RelativeToolTip": "DataCarrier\\EmployeeEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:56:50.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Test.csproj",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Test\\Test.csproj",
+              "RelativeDocumentMoniker": "Test\\Test.csproj",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Test\\Test.csproj",
+              "RelativeToolTip": "Test\\Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T09:14:05.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repository.Contracts.csproj",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Repository.Contracts\\Repository.Contracts.csproj",
+              "RelativeDocumentMoniker": "Repository.Contracts\\Repository.Contracts.csproj",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Repository.Contracts\\Repository.Contracts.csproj",
+              "RelativeToolTip": "Repository.Contracts\\Repository.Contracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T09:14:00.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T09:13:56.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataModel.csproj",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\DataModel\\DataModel.csproj",
+              "RelativeDocumentMoniker": "DataModel\\DataModel.csproj",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\DataModel\\DataModel.csproj",
+              "RelativeToolTip": "DataModel\\DataModel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T09:13:45.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataCarrier.csproj",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\DataCarrier\\DataCarrier.csproj",
+              "RelativeDocumentMoniker": "DataCarrier\\DataCarrier.csproj",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\DataCarrier\\DataCarrier.csproj",
+              "RelativeToolTip": "DataCarrier\\DataCarrier.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T09:13:39.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T09:13:26.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApiService.csproj",
+              "DocumentMoniker": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\ApiService\\ApiService.csproj",
+              "RelativeDocumentMoniker": "ApiService\\ApiService.csproj",
+              "ToolTip": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\ApiService\\ApiService.csproj",
+              "RelativeToolTip": "ApiService\\ApiService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T09:12:53.971Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

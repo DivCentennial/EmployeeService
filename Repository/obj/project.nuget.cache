@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "wY9UD7pv1wh4xM98Jm+7F3OFdPbu6q+Cor8nKFs4Az+kPDiEjcA5Yn51CJ8b7c3RDYUEXZVNYcHmNhURiz15sA==",
+  "success": false,
+  "projectFilePath": "D:\\OneDriveTemp\\Programs\\EmployeeService\\EmployeeService\\Repository\\Repository.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package MariApps.PAL.Framework.DataAccess. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": "MariApps.PAL.Framework.DataAccess",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

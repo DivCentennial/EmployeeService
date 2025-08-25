@@ -1,0 +1,7 @@
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Test\bin\Debug\net8.0\CoverletSourceRootsMapping
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Test\obj\Debug\net8.0\Test.csproj.AssemblyReference.cache
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Test\obj\Debug\net8.0\MvcTestingAppManifest.json
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache

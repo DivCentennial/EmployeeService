@@ -1,0 +1,8 @@
+{
+  "MariApps.MS.Common.MSA.Employee.ApiService": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\ApiService",
+  "MariApps.MS.Common.MSA.Employee.Business": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Business",
+  "MariApps.MS.Common.MSA.Employee.DataCarrier": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\DataCarrier",
+  "MariApps.MS.Common.MSA.Employee.DataModel": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\DataModel",
+  "MariApps.MS.Common.MSA.Employee.Repository.Contracts": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Repository.Contracts",
+  "MariApps.MS.Common.MSA.Employee.Repository": "D:\\OneDrive - MariApps Marine Solutions Pte.Ltd\\PALNG\\EmployeeService\\Repository"
+}

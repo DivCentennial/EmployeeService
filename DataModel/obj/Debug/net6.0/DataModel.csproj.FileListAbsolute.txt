@@ -1,0 +1,24 @@
+D:\demo\PALNG\EmployeeService\DataModel\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.deps.json
+D:\demo\PALNG\EmployeeService\DataModel\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.dll
+D:\demo\PALNG\EmployeeService\DataModel\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.pdb
+D:\demo\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+D:\demo\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+D:\demo\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+D:\demo\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+D:\demo\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.dll
+D:\demo\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\refint\MariApps.MS.Common.MSA.Employee.DataModel.dll
+D:\demo\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.pdb
+D:\demo\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\ref\MariApps.MS.Common.MSA.Employee.DataModel.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\refint\MariApps.MS.Common.MSA.Employee.DataModel.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.pdb
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataModel\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.deps.json
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataModel\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.dll
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataModel\bin\Debug\net6.0\MariApps.MS.Common.MSA.Employee.DataModel.pdb
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+D:\OneDrive - MariApps Marine Solutions Pte.Ltd\PALNG\EmployeeService\DataModel\obj\Debug\net6.0\ref\MariApps.MS.Common.MSA.Employee.DataModel.dll
